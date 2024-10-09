@@ -1,2 +1,4 @@
-# cpp-syncronization
-C++ sample app to test syncronization using mutex lock
+
+# C++ Syncronization Test
+
+Repository for testing syncronization using mutex lock
